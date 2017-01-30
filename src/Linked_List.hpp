@@ -25,5 +25,4 @@ class linked_list{
 		void print();
 };
 
-
 #endif
